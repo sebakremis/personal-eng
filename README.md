@@ -1,6 +1,6 @@
 # Sebastian Kremis — Personal Page
 
-This repository contains my blog-style personal website. The page is built with static HTML and CSS and presents an AI-generated assessment of my strengths, skills, education, and career highlights.
+This repository contains my blog-style personal website. The page is built with static HTML and CSS and presents insights and visualizations created from raw market data extracted with a Python ETL pipeline.
 
 👉 You can view the live site here: [sebakremis.github.io/personal-eng](https://sebakremis.github.io/personal-eng/)
 
