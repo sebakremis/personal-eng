@@ -1,6 +1,6 @@
 # Sebastian Kremis — Personal Page
 
-This repository contains my blog-style personal website. The page is built with static HTML and CSS and presents insights and visualizations created from raw market data extracted with a Python ETL pipeline ([EquitySquema](https://github.com/sebakremis/EquitySchema) public repo).
+This repository contains my blog-style personal website for Data Analysis. The page is built with static HTML and CSS and presents insights and visualizations created from raw market data extracted with a Python ETL pipeline ([EquitySquema](https://github.com/sebakremis/EquitySchema) public repo).
 
 👉 You can view the live site here: [sebakremis.github.io/personal-eng](https://sebakremis.github.io/personal-eng/)
 
